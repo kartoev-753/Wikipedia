@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div {
+ width: 70%;
+ margin: auto;
+ background-color: rgb(5, 17, 184);
+ border-radius: 20px;
+ padding: 30px;
+ border: solid 1px;
+}
+
+img {
+  width: 400px;
+  height: 400px;
+  margin: 20px 0 20px 300px;
+}
+
+p {
+  line-height: 30px;   
+font-size: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+ 
